@@ -1,4 +1,4 @@
 @extends('master')
 @section('content')
-  Grag in The Campussssss
+  Greg in The Campussssss
 @endsection
